@@ -1,4 +1,4 @@
-package com.citiustech.contact.controller;
+package com.ct.contact.controller;
 
 import java.util.ArrayList;
 import java.util.List;

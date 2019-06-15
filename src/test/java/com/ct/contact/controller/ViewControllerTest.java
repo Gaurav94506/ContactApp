@@ -1,4 +1,4 @@
-package com.citiustech.contact.controller;
+package com.ct.contact.controller;
 import org.junit.Before;
 import org.junit.Test;
 import org.mockito.InjectMocks;

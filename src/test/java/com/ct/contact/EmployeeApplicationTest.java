@@ -1,4 +1,4 @@
-package com.citiustech.contact;
+package com.ct.contact;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
